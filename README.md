@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Power BI, Data Visualization, Arduino & IoT**
 
-- 📫 How to reach me **pavanreddy3328@gmail.com**
+- 📫 How to reach me **pavankumar.b.reddy@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1DAubibQz7uuW7WHWQBpODolzhu8jElLY/view?usp=sharing](https://drive.google.com/file/d/15w5f1RpscbPlxvGfv_RZdH95LmkW9c1L/view?usp=sharing)
 
