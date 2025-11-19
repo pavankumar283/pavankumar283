@@ -10,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- Ex-Bosch Intern with hands-on experience in PCBA quality testing and data-driven Power dashboards, reporting.
+- Ex-Bosch Intern with hands-on experience in PCBA quality testing and data-driven dashboards, reporting.
 - I’m an aspiring Data Analyst skilled in SQL, Python, Excel, and Power BI, with a solid track record of cleaning, analyzing, and visualizing data to support business decisions.
 - I build clear, insight-driven dashboards and quickly adapt to new tools, and I’m actively looking for entry-level data roles to apply and grow these skills.
 
