@@ -15,7 +15,7 @@
 - I build clear, insight-driven dashboards and quickly adapt to new tools, and I’m actively looking for entry-level data roles to apply and grow these skills.
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pavankumar283&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400" alt="pavankumar283's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=pavankumar283&theme=github_dark&hide_border=true&cache_seconds=86400" alt="pavankumar283's GitHub Streak" width="49%" />
