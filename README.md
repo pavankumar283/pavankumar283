@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> I'm Pavan Kumar Reddy</h1>
-<h3 align="center">Aspiring Data Analyst & Passionate Embedded Systems</h3>
+<h3 align="center">Woking As Quality Assurace Inspection in Avirata Defense System </h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=pavankumar283">
